@@ -8,4 +8,4 @@ console.log(ultimo);
 
 
 colores.push("naranja");
-console.log()
+console.log(colores[colores.length-1]);
